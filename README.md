@@ -1,4 +1,4 @@
-```markdown
+
 # Cybersecurity Agent with LangGraph and Streamlit
 
 This project implements an agentic cybersecurity pipeline using LangGraph and LangChain, integrated with a Streamlit UI for real-time visualization. It autonomously performs security scans (e.g., nmap, gobuster), manages a dynamic task list, enforces scope constraints, and generates detailed reports with vulnerability highlights.
